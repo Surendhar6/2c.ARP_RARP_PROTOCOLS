@@ -1,6 +1,11 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+
+### Name : Surendhar A
+### Req. No. : 212222110049
+
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
+
 ## ALGORITHM:
 ## Client:
 1. Start the program
@@ -15,7 +20,7 @@ To write a python program for simulating ARP protocols using TCP.
 stored.
 4. Read the IP address which is send by the client.
 5. Map the IP address with its MAC address and return the MAC address to client.
-P
+
 ## PROGRAM - ARP
 ### Client 
 ```
